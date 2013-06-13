@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fiimage</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="flickr">flickr</string>
+    <string name="deviant">deviantArt</string>
+    <string name="ffffound">FFFFOUND</string>
+    <string name="image">이미지</string>
+    <string name="background">배경</string>
+    <string name="logo">로고</string>
+    <string name="search">검색</string>
+    <string name="download">저장</string>
+    <string name="share">공유</string>
+    <string name="link">링크</string>
+
+</resources>
